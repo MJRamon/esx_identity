@@ -34,10 +34,6 @@ Commands:
 /delchar 1,2,3
 ```
 
-
-Notice:
-`Drop the characters table, it is no longer used`
-
 Credits:
 `Script Created By: ArkSeyonet @Ark`
 
